@@ -1,2 +1,2 @@
 # Tarea3_EvelynLezama
-Modern Bussines adaptado a FIME
+Modern Business adaptado a FIME

@@ -1,0 +1,51 @@
+/* Selector de Etiquetas (universal) */
+h1{
+  font-size:40px;
+  color:#17a2b8;
+  font-family:"Arial, Helvetica, Sans-serif";
+}
+
+/* Selector de Clase (genérico) */
+.fuenteCliente{
+  font-family: 'Roboto', sans-serif;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  border:1px solid #394bc6;
+  border-bottom-width: 15px;
+  border-right-width: 15px;
+}
+
+/* Selector de Clase (genérico) */
+.solicitudCliente{
+  font-size: 36px;
+  color: #282F7F;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Selector de ID */
+#metodoID{
+  font-family: 'Roboto', sans-serif;
+  color: #282F7F;
+  font-size: 30px;
+}
+
+.bg-green{
+  background-color: #34a32a;
+}
+
+.btn-green{
+  color: #fff;
+  background-color: #52d772;
+  border-color: #52d772;
+  border-radius: 5px;
+}
+
+p{
+  font-family: 'Open Sans';
+  font-size: 14px;
+  color: #404040;
+  line-height: 18px;
+  margin-bottom: 20px;
+}
